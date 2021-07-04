@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @masudtalukdar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-masudtalukdar/masudtalukdar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Machine Learning and Artificial intelligence also wanna becoming a Web developer 😍
+- 🌱 I’m currently learning Web Development.
+- 💞️ I’m Looking forward to collaborate with you !
+          My skills and I would be honored to transfer my knowledge and experience into any of your projects.
+          I am looking forward to collaborate with you! Best regards,. We are looking forward to collaborate with you on exciting projects!
+- 📫"Reach out to me" at masudtalukdar.cn@gmail.com
+- Take Love From Me ❤
