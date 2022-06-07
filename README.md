@@ -8,6 +8,3 @@
 - Take Love From Me ❤
 
 # [Portfolio](https://masudtalukdar-portfolio.web.app/)
-[Click here for Live Site Link](https://masudtalukdar-portfolio.web.app/)
-
-https://masudtalukdar-portfolio.web.app/
